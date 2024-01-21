@@ -1,6 +1,6 @@
 # 🕰️ Relógio Digital
 
-### Uma aplicação simples utilizada para a primeira avaliação de INTRODUÇÃO ÀS TECNOLOGIAS WEB do curso de SI
+### Uma aplicação simples utilizada para a primeira avaliação de Introdução às Tecnologias Web do curso de Sistemas de Informação
 
 ### Vizualização pela manhã
 <img src="assets/manha.png" height="400">
